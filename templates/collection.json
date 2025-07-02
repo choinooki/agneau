@@ -1,0 +1,1 @@
+{"sections":{"banner":{"type":"main-collection-banner","settings":{"show_collection_image":false}},"product-grid":{"type":"main-collection-product-grid","settings":{"products_per_page":32,"enable_filtering":true,"enable_sorting":true,"image_ratio":"portrait","image_fit":"cover","show_desc":false}}},"order":["banner","product-grid"]}
