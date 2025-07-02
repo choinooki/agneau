@@ -1,0 +1,27 @@
+{
+	"type": "header",
+	"name": "t:sections.header.settings.header-group.label",
+	"sections": {
+		"countdown-timer-bar": {
+			"type": "countdown-timer-bar",
+			"settings": {}
+		},
+		"header": {
+			"type": "header",
+			"settings": {
+        "enable_border": false,
+        "header_type": "center-logo",
+        "logo": "shopify://shop_images/clothing_logo_dark.svg",
+        "logo_2": "shopify://shop_images/clothing_logo_light.svg",
+        "logo_width": 85,
+        "menu": "main-menu",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "enable_search": true,
+        "scheme_position": "right",
+        "sticky_header_type": "always"
+      }
+		}
+	},
+	"order": ["countdown-timer-bar", "header"]
+}
